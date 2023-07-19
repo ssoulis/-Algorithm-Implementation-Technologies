@@ -1,4 +1,4 @@
-name = erg1
+name = erg2
 src = $(wildcard *.cpp)
 obj = $(src:/c=.o)
 
